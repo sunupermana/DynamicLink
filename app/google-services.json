@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "387939494806",
+    "firebase_url": "https://dynamic-link-29012020.firebaseio.com",
+    "project_id": "dynamic-link-29012020",
+    "storage_bucket": "dynamic-link-29012020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387939494806:android:34396ec78ba3b4249d0bb7",
+        "android_client_info": {
+          "package_name": "com.sunupermana.dynamiclink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387939494806-78qva17ksvp42hlk12vmmkejr38b8fbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX0WRv06_9GLX4xKvzPc9m9fsqQw4dxX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387939494806-78qva17ksvp42hlk12vmmkejr38b8fbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
